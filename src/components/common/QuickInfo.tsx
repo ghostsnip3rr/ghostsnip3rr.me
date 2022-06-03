@@ -8,8 +8,11 @@ export default function QuickInfo() {
                 width="250px"
                 height="250px"
             />
-            <h1 className='text-slate-200 text-2xl text-center font-sans font-semibold'>Hi, I'm Georgi</h1>
-            <h4 className="text-slate-400 text-base">aka Ghostsnip3rr</h4>
+            <h1 className='text-slate-200 text-2xl text-center font-sans font-semibold'>Hi, I'm Ghostsniper</h1>
+            <h4 className="text-slate-400 text-base">Computer Scientist</h4>
+            <div className='flex flex-row justify-center items-center mt-2 text-slate-500'>
+                Contacts soon
+            </div>
         </div>
     )
 }
