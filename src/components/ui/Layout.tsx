@@ -22,6 +22,7 @@ export default function Layout({ title, desc, image, url, children }: LayoutProp
                 <title>{title}</title>
                 <meta name="title" content={title} />
                 <meta name="description" content={desc} />
+                <meta name="keywords" content="ghostsnip3rr, ghost, sniper, developer, experienced"/>
                 <meta property="image" content={image} />
 
                 <meta property="og:type" content="Guide" />
