@@ -13,16 +13,19 @@ export default function Experience() {
                         src="/images/nodejs.png"
                         width="50px"
                         height="50px"
+                        alt="nodejs"
                     />
                     <Image
                         src="/images/rust.png"
                         width="50px"
                         height="50px"
+                        alt="rust"
                     />
                     <Image
                         src="/images/postgres.png"
                         width="50px"
                         height="50px"
+                        alt="postgres"
                     />
                 </div>
             </div>
@@ -36,26 +39,31 @@ export default function Experience() {
                         src="/images/react.png"
                         width="50px"
                         height="50px"
+                        alt="react"
                     />
                     <Image
                         src="/images/nextjs.png"
                         width="50px"
                         height="50px"
+                        alt="nodejs"
                     />
                     <Image
                         src="/images/tailwind.png"
                         width="50px"
                         height="50px"
+                        alt="tailwind"
                     />
                     <Image
                         src="/images/mobx.png"
                         width="50px"
                         height="50px"
+                        alt="mobx"
                     />
                     <Image
                         src="/images/redux.png"
                         width="50px"
                         height="50px"
+                        alt="redux"
                     />
                 </div>
             </div>
@@ -69,11 +77,13 @@ export default function Experience() {
                         src="/images/docker.png"
                         width="50px"
                         height="50px"
+                        alt="docker"
                     />
                     <Image
                         src="/images/loadbalancing.png"
                         width="50px"
                         height="50px"
+                        alt="loadbalancing"
                     />
                 </div>
             </div>

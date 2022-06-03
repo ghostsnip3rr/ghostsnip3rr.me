@@ -7,6 +7,7 @@ export default function QuickInfo() {
                 src='/logo.gif'
                 width="250px"
                 height="250px"
+                alt="logo"
             />
             <h1 className='text-slate-200 text-2xl text-center font-sans font-semibold'>Hi, I'm Ghostsniper</h1>
             <h4 className="text-slate-400 text-base">Computer Scientist</h4>
